@@ -1,2 +1,2 @@
-# Typora_image
+# Typora
 Typora图床
